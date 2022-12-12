@@ -1,0 +1,2492 @@
+
+
+      html {
+        height: 100%;
+        width: center;
+        
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: center;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      
+      }
+
+    
+
+      .inicio {
+
+      display:block;
+      position:absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: 900px;
+    height: 8891px;
+    left: 0px;
+    top: 0px;
+    
+
+}
+
+.inicio .rectangulo38 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(246, 243, 237, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 5552px;
+    left: 0px;
+    top: 1442px;
+    
+
+}
+
+.inicio .grupo26 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 321px;
+    left: 165px;
+    top: 6211px;
+
+}
+
+.inicio .grupo26 .lorealProductosPielSensible {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/lorealProductosPielSensible.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo26 .cuidadoHydrageniusDeLorealParis {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 76px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo27 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 513px;
+    top: 6200px;
+
+}
+
+.inicio .grupo27 .orlaneProductosPielSensible {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/orlaneProductosPielSensible.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo27 .locionDesmaquillanteDeOrlane {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo37 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 356px;
+    left: 332px;
+    top: 6572px;
+
+}
+
+.inicio .grupo37 .cumlaudeProductosPielSensible {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/cumlaudeProductosPielSensible.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244px;
+    height: 243px;
+    left: 8px;
+    top: 0px;
+
+}
+
+.inicio .grupo37 .capsulasComplementoAlimenticioSunlaudeOralDeCumlaude {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo28 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 483px;
+    top: 5160px;
+
+}
+
+.inicio .grupo28 .productosPielGrasaColbertMd600x900779f1ef1 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/productosPielGrasaColbertMd600x900779f1ef1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo28 .exfoliacionProfesional {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo32 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 330px;
+    left: 339px;
+    top: 5539px;
+
+}
+
+.inicio .grupo32 .productosPielGrasaDeborah600x9002adac5d8 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/productosPielGrasaDeborah600x9002adac5d8.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244px;
+    height: 243px;
+    left: 8px;
+    top: 0px;
+
+}
+
+.inicio .grupo32 .mascarillaPurificante {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 76px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo21 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 139px;
+    top: 4133px;
+
+}
+
+.inicio .grupo21 .x71zjkzqcmcsacsx569 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x71zjkzqcmcsacsx569.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo21 .boostCremaGelHidratanteFacialConAcidoHialuronico {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo23 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 500px;
+    top: 4133px;
+
+}
+
+.inicio .grupo23 .exfolianteFacialDeArrozSuavechicob9c6da0b {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/exfolianteFacialDeArrozSuavechicob9c6da0b.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo23 .exfolianteFacialDeArrozSuave159a3006 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo24 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 321px;
+    left: 320px;
+    top: 4503px;
+
+}
+
+.inicio .grupo24 .gelHidratanteRefrescanteConSaviaDeAloechico {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/gelHidratanteRefrescanteConSaviaDeAloechico.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244px;
+    height: 243px;
+    left: 8px;
+    top: 0px;
+
+}
+
+.inicio .grupo24 .gelHidratanteRefrescanteConSaviaDeAloe {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: auto;
+      overflow-y: auto;
+      width: auto;
+    height: 76px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo20 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 321px;
+    left: 320px;
+    top: 3432px;
+
+}
+
+.inicio .grupo20 .x1638981818CapturaDePantalla20211208ALas1743231638981806 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x1638981818CapturaDePantalla20211208ALas1743231638981806.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244px;
+    height: 243px;
+    left: 8px;
+    top: 0px;
+
+}
+
+.inicio .grupo20 .cremaHidratante {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 76px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo17 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 500px;
+    top: 3067px;
+
+}
+
+.inicio .grupo17 .x1655380974Eberlin1655380954 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x1655380974Eberlin1655380954.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo17 .cremaCalmingXTreme {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo16 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 299px;
+    left: 140px;
+    top: 3067px;
+
+}
+
+.inicio .grupo16 .dnqnp894328Mlc46834928414072021O {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/dnqnp894328Mlc46834928414072021O.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo16 .hidratacionIntensaCremaFacial {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 54px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .rectangulo39 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.8999999761581421;
+      cursor: default;
+      background-color: rgba(246, 243, 237, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 230px;
+    left: 0px;
+    top: 1px;
+
+}
+
+.inicio .rectangulo36 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(241, 237, 231, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 706px;
+    left: 0px;
+    top: 736px;
+
+}
+
+.inicio .portadaLos10PasosDeLaRutinaDeSkincareCoreano {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/portadaLos10PasosDeLaRutinaDeSkincareCoreano.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 506px;
+    left: 0px;
+    top: 230px;
+
+}
+
+.inicio .grupo22 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: 291px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo22 .rectangulo34 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(241, 237, 231, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 291px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo22 .grupo2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 389px;
+    height: 73px;
+    left: 255.50px;
+    top: 18px;
+
+}
+
+.inicio .grupo22 .grupo2 .glowskin {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/glowskin.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 389px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo22 .glowskinC2022TodoDerechoReservado {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 536px;
+    height: 20px;
+    left: 181.50px;
+    top: 220px;
+
+}
+
+.inicio .grupo22 .celular56987149874 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 17px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 260px;
+    height: 77px;
+    left: 219.50px;
+    top: 111px;
+
+}
+
+.inicio .grupo22 .emailglowskin {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 17px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 260px;
+    height: 77px;
+    left: 539.50px;
+    top: 111px;
+
+}
+
+.inicio .grupo22 .linea7 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      stroke: rgba(0, 0, 0, 0.8901960784313725);
+          stroke-width: 2px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 780px;
+    height: 2px;
+    left: 60px;
+    top: 187.50px;
+
+}
+
+.inicio .grupo14 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 342px;
+    left: 500px;
+    top: 1964px;
+
+}
+
+.inicio .grupo14 .exfolianteFacialDeArrozSuavechico {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/exfolianteFacialDeArrozSuavechico.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo14 .exfolianteFacialDeArrozSuave {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 97px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo7 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 300px;
+    height: 233px;
+    left: 60px;
+    top: 2738px;
+
+}
+
+.inicio .grupo7 .rectangulo4 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 300px;
+    height: 233px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo7 .seca {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 25px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 300px;
+    height: 33px;
+    left: 0px;
+    top: 99px;
+
+}
+
+.inicio .llamamosPielSecaAUnTipoDePielQueSeCaracterizaPorPresentarTirantezDescamacionFaltaDeConfortYAsperezaSobreTodoDespuesDelBanoEnEsteTipoDePielesPuedeHaberUnaAlteracionEnLaProduccionDeSeboPorLoQueEstaMasDesproteg {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 280px;
+    left: 380px;
+    top: 2738px;
+
+}
+
+.inicio .grupo8 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 300px;
+    height: 257px;
+    left: 60px;
+    top: 1625px;
+
+}
+
+.inicio .grupo8 .rectangulo3 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 300px;
+    height: 257px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo8 .normal {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 25px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 56px;
+    left: 0px;
+    top: 111px;
+
+}
+
+.inicio .laCalidadDeLaPielDependeDeLaPredisposicionGeneticaDeFactoresAmbientalesYDeLaEdadLaPielNormalEsCasiPerfectaGraciasASuOptimoNivelDeElasticidadSeMantieneSiempreSuaveYFlexibleNoEsSensibleYTieneUnaBuenaCirculacion {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 281px;
+    left: 380px;
+    top: 1625px;
+
+}
+
+.inicio .grupo6 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 300px;
+    height: 233px;
+    left: 60px;
+    top: 3796px;
+
+}
+
+.inicio .grupo6 .rectangulo5 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 300px;
+    height: 233px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo6 .grasa {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 25px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 300px;
+    height: 33px;
+    left: 0px;
+    top: 99px;
+
+}
+
+.inicio .seCaracterizaPorTenerPorosDilatadosYBrillosPorTodoElRostroNoSoloEnLaZonaTYaQueEnEseCasoEstariamosHablandoDeUnaPielMixtaPuedenTenerTendenciaAExperimentaPorosDilatadosPuntosNegrosBrillosYAspectoGrasiento {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 224px;
+    left: 380px;
+    top: 3796px;
+
+}
+
+.inicio .grupo5 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 300px;
+    height: 233px;
+    left: 60px;
+    top: 4897px;
+
+}
+
+.inicio .grupo5 .rectangulo6 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 300px;
+    height: 233px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo5 .mixta {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 25px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 31px;
+    left: 0px;
+    top: 99px;
+
+}
+
+.inicio .esteTipoDePielPresentaUnaTexturaMasGrasosaEnLaZonaTMentonNarizYFrenteEsUnaMezclaEntreLaPielSecaYLaPielGrasaEnCualEsMasPropensoALosGranitosYPuntosNegrosPorLaSecrecionSebaceaDondeSeDebeCuidarComoEsDebido {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 275px;
+    left: 380px;
+    top: 4897px;
+
+}
+
+.inicio .grupo4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 300px;
+    height: 233px;
+    left: 60px;
+    top: 5894px;
+
+}
+
+.inicio .grupo4 .rectangulo7 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 300px;
+    height: 233px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo4 .sensible {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 25px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 31px;
+    left: 0px;
+    top: 99px;
+
+}
+
+.inicio .sentirTuPielTiranteEIrritadaLaVesEnrojecidaEnAlgunasZonasOConTonoNoUniformeAparecenAlgunosBultitosOSeManifiestanAlergiasConRegularizandoTeRecomendamosEligiendoProductosEspecialmenteDestinadosParaPielSensibleParaSuLim {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 317px;
+    left: 380px;
+    top: 5894px;
+
+}
+
+.inicio .componente46 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 299px;
+    left: 140px;
+    top: 1964px;
+
+}
+
+.inicio .componente46 .cremaDeDiaRefrescanteFp30chico {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/cremaDeDiaRefrescanteFp30chico.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 226px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .componente46 .cremaDeDiaRefrescanteFp30 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 54px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo25 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 287px;
+    height: 302px;
+    left: 139px;
+    top: 5158px;
+
+}
+
+.inicio .grupo25 .productosPielGrasaAvene600x90096ad1b5c {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/productosPielGrasaAvene600x90096ad1b5c.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: auto;
+    height: 249px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+
+}
+
+.inicio .grupo25 .aguaMicelar {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 260px;
+    height: 54px;
+    left: 13px;
+    bottom: 0px;
+
+}
+
+.inicio .home {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Cairo, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 140px;
+    height: 36px;
+    left: 60px;
+    top: 166.50px;
+
+}
+
+.inicio .productos {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Cairo, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 140px;
+    height: 36px;
+    left: 380px;
+    top: 166.50px;
+
+}
+
+.inicio .resena {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Cairo, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 140px;
+    height: 36px;
+    left: 540px;
+    top: 166.50px;
+
+}
+
+.inicio .contacto {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Cairo, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 140px;
+    height: 36px;
+    left: 700px;
+    top: 166.50px;
+
+}
+
+.inicio .nosotros {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 15px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Cairo, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 140px;
+    height: 36px;
+    left: 220px;
+    top: 166.50px;
+
+}
+
+.inicio .productosParaDespertarTuAutenticoBrillo {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(246, 243, 237, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 40px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 161px;
+    left: 540px;
+    top: 512px;
+
+}
+
+.inicio .productosParaDespertarTuAutenticoBrillo .productosParaDespertarTuAutenticoBrillo-0 {
+    color: rgba(246, 243, 237, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    font-family: 'Playfair Display', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.inicio .productosParaDespertarTuAutenticoBrillo .productosParaDespertarTuAutenticoBrillo-1 {
+    color: rgba(246, 243, 237, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    font-family: 'Playfair Display', Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.inicio .escogeTuTipoDePiel {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(213, 190, 171, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 55px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 780px;
+    height: 95px;
+    left: 60px;
+    top: 1481px;
+
+}
+
+.inicio .grupo1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 244.55px;
+    height: 48.69px;
+    left: 327.73px;
+    top: 45.81px;
+
+}
+
+.inicio .grupo1 .glowskin139ae054 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/glowskin139ae054.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244.55px;
+    height: 48.69px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .linea8 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      stroke: rgba(112, 112, 112, 1);
+          stroke-width: 1px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 780px;
+    height: 1px;
+    left: 60px;
+    top: 128.50px;
+
+}
+
+.inicio .sunnyNgKvilnrogwxkUnsplash {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/sunnyNgKvilnrogwxkUnsplash.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 452px;
+    height: 539px;
+    left: 380px;
+    top: 767px;
+
+}
+
+.inicio .sobreNosotros {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(213, 190, 171, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 40px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 73px;
+    left: 60px;
+    top: 827px;
+
+}
+
+.inicio .somosUnaEmpresaQuePrestaServicioDeCuidadoYLimpiezaDeLaPielOfrecemosUnaAmpliaInformacionDeLaGamaDeProductosDeCosmeticaQueNecesiteHeInclusoRecomendamosLosMismos {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 300px;
+    height: 251px;
+    left: 60px;
+    top: 900px;
+
+}
+
+.inicio .brindamosElMejorServicioYaQueNuestraPrioridadEsLaSatisfaccionDelCliente {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(16, 16, 16, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 50px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: auto;
+      overflow-y: auto;
+      width: 772px;
+    height: 249px;
+    left: 60px;
+    top: 1162px;
+
+}
+
+.inicio .grupo15 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 260px;
+    height: 351px;
+    left: 320px;
+    top: 2329px;
+
+}
+
+.inicio .grupo15 .gelHidratanteRefrescanteConSaviaDeAloechico3ca44dbe {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/gelHidratanteRefrescanteConSaviaDeAloechico3ca44dbe.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 244px;
+    height: 243px;
+    left: 8px;
+    top: 0px;
+
+}
+
+.inicio .grupo15 .gelHidratanteRefrescanteConSaviaDeAloea454245a {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: auto;
+    height: 106px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.inicio .grupo33 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: auto;
+    height: 1606px;
+    left: 0px;
+    top: 6994px;
+    right: 0px;
+
+}
+
+.inicio .grupo33 .rectangulo37 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(213, 190, 171, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 900px;
+    height: 1606px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.inicio .grupo33 .noRevisionsWvxl8m1aoaeUnsplash {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/noRevisionsWvxl8m1aoaeUnsplash.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 453px;
+    height: 543px;
+    left: 60px;
+    top: 212px;
+
+}
+
+.inicio .grupo33 .resenaaee23bc7 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0px;
+      color: rgba(16, 16, 16, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 80px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Playfair Display', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 780px;
+    height: 111px;
+    left: 60px;
+    top: 46px;
+
+}
+
+.inicio .grupo33 .comilla {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/comilla.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1px;
+      border-top-left-radius: 24px;
+      border-top-right-radius: 24px;
+      border-bottom-left-radius: 24px;
+      border-bottom-right-radius: 24px;
+      box-shadow: none;
+      width: 156px;
+    height: 110px;
+    left: 103px;
+    top: 700px;
+
+}
+
+.inicio .grupo33 .siempreEstoyAquiParaMiVerQueNovedadesHayParaMiTratamientoProfesionalEsUnServicioIncreibleHeEstadoMuchasVeces {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 131px;
+    left: 220px;
+    top: 771px;
+
+}
+
+.inicio .grupo33 .cheyenneDoigDps0degrm9aUnsplash {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/cheyenneDoigDps0degrm9aUnsplash.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 457px;
+    height: 518px;
+    top: 913px;
+    right: 63px;
+
+}
+
+.inicio .grupo33 .comillac811ee75 {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/comillac811ee75.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      box-shadow: none;
+      width: 156px;
+    height: 110px;
+    top: 1364px;
+    right: 315px;
+
+}
+
+.inicio .grupo33 .servicioPerfectoEsteLugarEsPerfectoSiQuieresDarteInformarteYDarteUnCapricho {
+    position: absolute;
+      box-sizing: content-box;
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0px;
+      color: rgba(6, 6, 6, 1);
+      -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+      font-size: 20px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Segoe UI', Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 460px;
+    height: 89px;
+    left: 60px;
+    top: 1442px;
+
+}
+
